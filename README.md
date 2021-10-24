@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @1Smey1
+- 👀 I’m interested in a software engineer and game development 
+- 🌱 I’m currently learning in computer science in Royals university of Phom Penh/Cambodi
+--->
